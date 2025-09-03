@@ -99,5 +99,3 @@ The goal of this CMS is to provide a **scalable, secure, and SEO-friendly platfo
 
 ---
 
-## 📂 Repository Structure
-
